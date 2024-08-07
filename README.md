@@ -15,7 +15,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luke-reis&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-reis&layout=compact&show_icons=true&theme=dark" style="width: 355px; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark" style="width: 355px; height: 200px; object-fit: cover;" />
 </div>
 
   <!-- Links -->
