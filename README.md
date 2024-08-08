@@ -46,6 +46,6 @@
 <div align="center">
 <br><br><br>
 <h3 align="center">Minhas Estatisticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=luke-reis&show_icons=true&theme=radical"style="width: 400px; height: 200px; object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&layout=compact&show_icons=true&theme=radical"style="width: 355px; height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luke-reis&show_icons=true&theme=holi"style="width: 400px; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&layout=compact&show_icons=true&theme=holi"style="width: 355px; height: 200px; object-fit: cover;"/>
 </div>
