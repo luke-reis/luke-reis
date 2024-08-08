@@ -19,7 +19,7 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/lucas-reis-113479224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt ="Linkedin Badge" ></a>
 <a href = "mailto:lucas.silvareis.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt= "Gamil Badge"></a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord Badge"></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord Badge"></a> 
 <a href="https://www.instagram.com/luke_reis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt = "Instagram Badge"></a>  
 
 ---
